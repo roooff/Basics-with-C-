@@ -1,0 +1,5 @@
+C:\Users\35989\source\repos\ConditionalStatementsLab\Area of Figures\bin\Debug\Area of Figures.exe
+C:\Users\35989\source\repos\ConditionalStatementsLab\Area of Figures\bin\Debug\Area of Figures.pdb
+C:\Users\35989\source\repos\ConditionalStatementsLab\Area of Figures\obj\Debug\Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\Area of Figures\obj\Debug\Area of Figures.exe
+C:\Users\35989\source\repos\ConditionalStatementsLab\Area of Figures\obj\Debug\Area of Figures.pdb

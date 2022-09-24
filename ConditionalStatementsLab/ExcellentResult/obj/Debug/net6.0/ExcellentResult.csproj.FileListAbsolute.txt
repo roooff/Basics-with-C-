@@ -1,0 +1,15 @@
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.exe
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.deps.json
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.runtimeconfig.json
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ref\ExcellentResult.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.pdb
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.AssemblyInfo.cs
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ref\ExcellentResult.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.pdb
+C:\Users\35989\source\repos\ConditionalStatementsLab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.genruntimeconfig.cache

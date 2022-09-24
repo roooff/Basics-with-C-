@@ -1,0 +1,15 @@
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\ref\GreaterNumber.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+C:\Users\35989\source\repos\ConditionalStatementsLab\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
