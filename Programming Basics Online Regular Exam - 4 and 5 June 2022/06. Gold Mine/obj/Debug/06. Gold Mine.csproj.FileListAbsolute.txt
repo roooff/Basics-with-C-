@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\_06.Gold_Mine.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\bin\Debug\_06.Gold_Mine.pdb
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\06. Gold Mine.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\06. Gold Mine.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\_06.Gold_Mine.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\06. Gold Mine\obj\Debug\_06.Gold_Mine.pdb

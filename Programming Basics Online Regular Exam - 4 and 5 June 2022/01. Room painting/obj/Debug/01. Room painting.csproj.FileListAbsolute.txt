@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\bin\Debug\_01.Room_painting.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\bin\Debug\_01.Room_painting.pdb
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\obj\Debug\01. Room painting.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\obj\Debug\01. Room painting.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\obj\Debug\_01.Room_painting.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\01. Room painting\obj\Debug\_01.Room_painting.pdb

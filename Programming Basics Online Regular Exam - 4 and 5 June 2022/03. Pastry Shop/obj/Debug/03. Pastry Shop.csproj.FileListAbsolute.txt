@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\_03.Pastry_Shop.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\bin\Debug\_03.Pastry_Shop.pdb
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\03. Pastry Shop.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\03. Pastry Shop.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\_03.Pastry_Shop.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\03. Pastry Shop\obj\Debug\_03.Pastry_Shop.pdb

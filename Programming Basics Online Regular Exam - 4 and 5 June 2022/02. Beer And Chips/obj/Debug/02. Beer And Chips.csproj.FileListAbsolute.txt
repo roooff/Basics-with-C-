@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\_02.Beer_And_Chips.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\bin\Debug\_02.Beer_And_Chips.pdb
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\02. Beer And Chips.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\02. Beer And Chips.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\_02.Beer_And_Chips.exe
+C:\Users\35989\source\repos\Programming Basics Online Regular Exam - 4 and 5 June 2022\02. Beer And Chips\obj\Debug\_02.Beer_And_Chips.pdb
