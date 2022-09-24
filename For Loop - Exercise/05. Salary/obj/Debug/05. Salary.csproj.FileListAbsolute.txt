@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\bin\Debug\_05.Salary.exe
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\bin\Debug\_05.Salary.pdb
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\obj\Debug\05. Salary.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\obj\Debug\05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\obj\Debug\_05.Salary.exe
+C:\Users\35989\source\repos\For Loop - Exercise\05. Salary\obj\Debug\_05.Salary.pdb

@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\_01.Numbers_Ending_in_7.exe
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\_01.Numbers_Ending_in_7.pdb
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\_01.Numbers_Ending_in_7.exe
+C:\Users\35989\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\_01.Numbers_Ending_in_7.pdb
