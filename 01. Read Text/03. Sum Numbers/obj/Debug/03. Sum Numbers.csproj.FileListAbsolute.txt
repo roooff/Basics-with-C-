@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\bin\Debug\_03.Sum_Numbers.exe
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\bin\Debug\_03.Sum_Numbers.pdb
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\obj\Debug\03. Sum Numbers.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\obj\Debug\03. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\obj\Debug\_03.Sum_Numbers.exe
+C:\Users\35989\source\repos\01. Read Text\03. Sum Numbers\obj\Debug\_03.Sum_Numbers.pdb

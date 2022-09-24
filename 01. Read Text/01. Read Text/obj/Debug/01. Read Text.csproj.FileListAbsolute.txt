@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\bin\Debug\_01.Read_Text.exe
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\bin\Debug\_01.Read_Text.pdb
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\obj\Debug\01. Read Text.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\obj\Debug\01. Read Text.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\obj\Debug\_01.Read_Text.exe
+C:\Users\35989\source\repos\01. Read Text\01. Read Text\obj\Debug\_01.Read_Text.pdb

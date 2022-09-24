@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\bin\Debug\_06.Max_Number.exe
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\bin\Debug\_06.Max_Number.pdb
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\obj\Debug\06. Max Number.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\obj\Debug\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\obj\Debug\_06.Max_Number.exe
+C:\Users\35989\source\repos\01. Read Text\06. Max Number\obj\Debug\_06.Max_Number.pdb
