@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\bin\Debug\1.Cinema.exe
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\bin\Debug\1.Cinema.pdb
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\obj\Debug\1.Cinema.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\obj\Debug\1.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\obj\Debug\1.Cinema.exe
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\1.Cinema\obj\Debug\1.Cinema.pdb

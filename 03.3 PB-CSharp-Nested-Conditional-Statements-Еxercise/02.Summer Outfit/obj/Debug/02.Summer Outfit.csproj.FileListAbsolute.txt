@@ -1,0 +1,6 @@
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\bin\Debug\02.Summer Outfit.exe
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\bin\Debug\02.Summer Outfit.pdb
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\obj\Debug\02.Summer Outfit.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\obj\Debug\02.Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\obj\Debug\02.Summer Outfit.exe
+C:\Users\35989\source\repos\03.3 PB-CSharp-Nested-Conditional-Statements-Еxercise\02.Summer Outfit\obj\Debug\02.Summer Outfit.pdb
